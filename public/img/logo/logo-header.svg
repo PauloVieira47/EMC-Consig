@@ -1,0 +1,9 @@
+<svg width="200" height="48" viewBox="0 0 200 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="EMC Consig">
+  <g transform="translate(0 2) scale(0.68)">
+    <path d="M19 38 C 15 34 14 28 16 22 C 12 26 11 33 13 39 C 15 44 18 47 22 48 C 20 45 18 42 19 38 Z" fill="#0a113d"/>
+    <circle cx="32" cy="36" r="21" stroke="#f9a825" stroke-width="4" fill="none"/>
+    <path d="M35 27 C 42 27 46 31 46 36 C 46 40 42 43 35 44 C 28 45 24 48 24 52 C 24 56 28 59 35 60" stroke="#f9a825" stroke-width="3.2" stroke-linecap="round" fill="none"/>
+    <path d="M32 23 V 49" stroke="#f9a825" stroke-width="3.2" stroke-linecap="round"/>
+  </g>
+  <text x="54" y="31" fill="#0a113d" font-family="Arial Black, Arial, sans-serif" font-size="17" font-weight="900" letter-spacing="1.2">EMC CONSIG</text>
+</svg>
